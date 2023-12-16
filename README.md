@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SamuelAsoma
-- 👀 I’m interested in ...Django
-- 🌱 I’m currently learning ..django web applications.
-- 💞️ I’m looking to collaborate on ..django stuff.
+- 👀 I’m interested in ...Python Django
+- 🌱 I’m currently learning .. frontend development.
+- 💞️ I’m looking to collaborate on ..projects.
 - 📫 How to reach me ...email samuelasoma393@gmail.com 
 
 <!---
