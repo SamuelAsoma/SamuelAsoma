@@ -18,10 +18,10 @@ Full-stack projects using React, Django, and PostgreSQL.
 Freelance opportunities in web development.
 Tech-driven business ideas & startups.
 📫 How to Reach Me:
-Email: 📩 samuel.asoma@novateq.dev
+Email: 📩 samuelasoma393@gmail.com
 LinkedIn: 🔗 Samuel Asoma
 Portfolio: 🌍 samuelasoma.com
-Novateq: 🌐 novateq.dev
+Novateq: 🌐 novateq
 
 <!---
 SamuelAsoma/SamuelAsoma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
