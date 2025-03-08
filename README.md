@@ -1,8 +1,27 @@
-- 👋 Hi, I’m @SamuelAsoma
-- 👀 I’m interested in ...Python Django
-- 🌱 I’m currently learning .. frontend development.
-- 💞️ I’m looking to collaborate on ..projects.
-- 📫 How to reach me ...email samuelasoma393@gmail.com 
+👋 Hi, I'm Samuel Asoma
+🚀 Full-Stack Developer | React | Django | Tailwind CSS | PostgreSQL
+
+👀 About Me:
+I’m a Full-Stack Developer passionate about building scalable web applications.
+Experienced in React (Vite), Django, and PostgreSQL, with a focus on UI/UX, performance, and SEO optimization.
+Founder of Novateq, a tech brand providing web solutions for businesses.
+🌱 Currently Learning & Building:
+Advanced Django Backend Development
+Optimizing full-stack applications for production
+Cloud services & DevOps (AWS, DigitalOcean, and Cloudinary for media handling)
+💼 What I'm Working On:
+Novateq – A tech company offering web solutions and digital transformation services.
+ZFB Unisex Salon – A booking system for a salon business (React + Django + Cloudinary).
+Personal Portfolio – Showcasing my projects and skills (samuelasoma.com).
+💡 Open to Collaboration On:
+Full-stack projects using React, Django, and PostgreSQL.
+Freelance opportunities in web development.
+Tech-driven business ideas & startups.
+📫 How to Reach Me:
+Email: 📩 samuel.asoma@novateq.dev
+LinkedIn: 🔗 Samuel Asoma
+Portfolio: 🌍 samuelasoma.com
+Novateq: 🌐 novateq.dev
 
 <!---
 SamuelAsoma/SamuelAsoma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
